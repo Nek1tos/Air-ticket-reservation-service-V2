@@ -1,0 +1,9 @@
+namespace Project3
+{
+    [default_interface]
+    runtimeclass BlankUserControl : Windows.UI.Xaml.Controls.UserControl
+    {
+        BlankUserControl();
+        Int32 MyProperty;
+    }
+}
